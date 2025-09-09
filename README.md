@@ -2,10 +2,10 @@
 
 A modern React frontend for the Notes CRUD API, built with React, TailwindCSS, and Vite.
 
-![Login Page](src/public/screenshot-2025-09-09-104353.png?raw=true)
+![Login Page](src/public/Home.png)
 
 
-![Dashboard](src/public/Screenshot-2025-09-09-105127.png?raw=true)
+![Dashboard](src/public/Dashboard.png)
 
 ## Features
 
